@@ -1,5 +1,5 @@
 {
-  "id": "emrezorlu1239/intel-image-classification-cnn",
+  "id": "emrezorlu1239/intel-image-classification-tinyvgg-cnn",
   "title": "Intel Image Classification - TinyVGG CNN",
   "code_file": "training.ipynb",
   "language": "python",

@@ -139,4 +139,4 @@ jupyter notebook notebooks/training.ipynb
 
 ## Acknowledgments
 
-This project was first prototyped on Kaggle: [link]
+This project was first prototyped on Kaggle: https://www.kaggle.com/code/emrezorlu1239/intel-image-classification-tinyvgg-cnn
