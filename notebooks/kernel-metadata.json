@@ -1,0 +1,16 @@
+{
+  "id": "emrezorlu1239/intel-image-classification-cnn",
+  "title": "Intel Image Classification - TinyVGG CNN",
+  "code_file": "training.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "dataset_sources": [
+    "puneet6060/intel-image-classification"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}
