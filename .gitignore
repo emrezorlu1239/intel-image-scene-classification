@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data (large files - not committed to git)
+data/
+*.zip
+*.tar.gz
+
+# Results / Model weights
+results/model.pth
+results/*.pth
+results/*.pt
+
+# Plots are committed (useful for README)
+# results/*.png  <- intentionally NOT ignored
+
+# IDE & editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Kaggle credentials (never commit!)
+kaggle.json
+.kaggle/
+
+# Logs & temp
+*.log
+*.tmp
+*.bak
+tmp/
+temp/
