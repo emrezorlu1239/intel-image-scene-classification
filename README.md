@@ -147,4 +147,4 @@ jupyter notebook notebooks/training.ipynb
 ## 📜 Acknowledgments & Kaggle Notebook
 
 This project was developed and benchmarked on Kaggle:
-[Intel Image Classification - TinyVGG CNN on Kaggle](https://www.kaggle.com/code/emrezorlu1239/intel-image-classification-tinyvgg-cnn)
+[Intel Image Classification - TinyVGG CNN on Kaggle](https://www.kaggle.com/code/emrezorlu1239/intel-image-classification-tinyvgg-cnn) 
